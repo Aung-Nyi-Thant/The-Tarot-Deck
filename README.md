@@ -1,4 +1,4 @@
-# LAE • TAROT ✦
+# • TAROT ✦
 > A mobile-first, high-fidelity virtual Tarot deck built as a premium, immersive digital gift. Designed with hardware-accelerated fluid physics, gold-foil shimmer reflections, and a private reflection diary.
 
 ---
