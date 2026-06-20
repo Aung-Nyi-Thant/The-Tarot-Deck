@@ -1,12 +1,9 @@
 import { defineConfig } from 'vite'
-import react from '@vitejs/react-plugin'
+import react from '@vitejs/plugin-react' // <-- Fix: plugin-react instead of react-plugin
 
-// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
   server: {
-    allowedHosts: [
-      'the-tarot-deck.onrender.com'
-    ]
+    allowedHosts: true
   }
 })
